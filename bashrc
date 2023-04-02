@@ -1,0 +1,7 @@
+alias "create-desktop-icon"="gnome-desktop-item-edit --create-new ~/Desktop"
+alias "cloud-prod"="~/workspace/cloud/cloud/access-scripts/cloudia"
+alias "tm"="echo ™"
+alias "shrug"="echo \"¯\_(ツ)_/¯\""
+alias "lenny"="echo \"( ͡° ͜ʖ ͡°)\""
+alias java-switch="sudo update-alternatives --config java"
+alias file-explorer="xdg-open"
