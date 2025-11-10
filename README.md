@@ -2,8 +2,8 @@
 
 ```bash
 sudo apt install -y git && \
-    mkdir -p /tmp
-    git clone -C /tmp https://github.com/aleperaltabazas/conf.git && \
-    chmod +x /tmp/conf/install.sh && \
-    /tmp/conf/install.sh
+    git clone https://github.com/aleperaltabazas/conf.git && \
+    chmod +x conf/install.sh && \
+    conf/install.sh && \
+    rm -rf conf/
 ```

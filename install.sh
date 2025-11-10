@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cp git/.gitconfig ~/.gitconfig
+cp git/gitconfig ~/.gitconfig
 
 sudo apt install maven
 
